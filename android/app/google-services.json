@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089220401823",
+    "project_id": "fasilitas-umum-eeb07",
+    "storage_bucket": "fasilitas-umum-eeb07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089220401823:android:2782f2d2cd25937476a0aa",
+        "android_client_info": {
+          "package_name": "com.example.fasilitas_umum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCts8CF2wKqW0XIvtNfBnFuqAa11ANKgH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
